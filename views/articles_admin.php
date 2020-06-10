@@ -5,7 +5,7 @@
     <meta http-equiv="content-type" content="text/html" />
     <meta name="author" content="Daniil" />
     <link rel="stylesheet" href="../css/style.css" />
-    <link href="js/bootstrap.min.css" rel="stylesheet">
+    <link href="../js/bootstrap.min.css" rel="stylesheet">
     <title>Мой первый блог</title>
 </head>
 <body>

@@ -8,3 +8,9 @@ footer {
 .admin-table {
     width: 100%;
 }
+.article-new label {
+    display: block;
+}
+.article-new label * {
+    vertical-align: middle;
+}
